@@ -1,12 +1,12 @@
 Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Mobile Application Developer and Ethical Hacker
+Mobile Application Developer and an aspiring Ethical Hacker
 ---------------------------------------------------
 
 I'm a **mobile app developer** 📱 by day, **ethical hacker** 💻 by night. I live in the shadows of code, finding joy in every semicolon, every well-placed comment, and every efficient algorithm.
 
-My passion lies in **cybersecurity** 🔒. I believe in using my skills for good, to protect and serve the digital world. I'm an ethical hacker, a guardian of cyberspace, always on the lookout for vulnerabilities that could be exploited, and working tirelessly to fortify against them.
+My passion lies in **cybersecurity** 🔒. I believe in using my skills for good, to protect and serve the digital world. I'm an aspiring ethical hacker, a guardian of cyberspace, always on the lookout for vulnerabilities that could be exploited, and working tirelessly to fortify against them.
 
 I'm a believer in the power of open source, and I love being part of this amazing community where we all learn from each other. I contribute to projects that pique my interest and challenge my skills, always pushing the boundaries of what's possible.
 

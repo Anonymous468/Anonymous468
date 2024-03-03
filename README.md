@@ -1,16 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saikat Mitra
+Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Application Developer and Cyber Security Enthusiast
+Mobile Application Developer and Ethical Hacker
 ---------------------------------------------------
 
-I have been building applications since 2021. Around the same time, I also developed a knack for cyber security, mostly hacking.
+I'm a **mobile app developer** by day, **ethical hacker** by night. I live in the shadows of code, finding joy in every semicolon, every well-placed comment, and every efficient algorithm.
 
-* 🌍  I'm based in Kolkata, West Bengal, India
-* ✉️  You can contact me at [saikat.mitra2003@gmail.com](mailto:saikat.mitra2003@gmail.com)
-* 🧠  I'm learning Artificial Intelligence and Machine Learning as well as Ethical Hacking
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am quite interested in learning Assembly and Game Development too
+My passion lies in **cybersecurity**. I believe in using my skills for good, to protect and serve the digital world. I'm an ethical hacker, a guardian of cyberspace, always on the lookout for vulnerabilities that could be exploited, and working tirelessly to fortify against them.
+
+I'm a believer in the power of open source, and I love being part of this amazing community where we all learn from each other. I contribute to projects that pique my interest and challenge my skills, always pushing the boundaries of what's possible.
+
+But enough about me. Let's let the code do the talking. After all, in the world of programming, actions speak louder than words.
+
+Remember, we're all just stories in the end. Let's make ours a good one.
+
+**Happy coding!** 🚀
 
 
 
